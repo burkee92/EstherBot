@@ -1,8 +1,8 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "BOT": "Hi there!\nI’m the personal bot of Emily, one of Viacom's Content Distribution Coordinators.\n![Emily](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAI9AAAAJGRmNjRlY2EzLWFlMDAtNGFlZi05YjExLWVkMTdhZjZkYmEyYQ.jpg)\nWant to know more about bots or learn about Emily? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Emily](postback:learn_about_emily) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hey, I'm so glad you set EmBot up! Do you want to find Emily on Instagram? %[Follow Her](postback:instagram)",
+    "TELL HER": "Let's tweet @ Emily so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Emily](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, EmilyBot is back."
 }
