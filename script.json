@@ -1,6 +1,6 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Emily, one of Viacom's Content Distribution Coordinators.\n![Emily](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAI9AAAAJGRmNjRlY2EzLWFlMDAtNGFlZi05YjExLWVkMTdhZjZkYmEyYQ.jpg)\nWant to know more about bots or learn about Emily? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Emily](postback:learn_about_emily) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EmBot up! Do you want to find Emily on Instagram? %[Follow Her](postback:instagram)",
+    "HELLO": "Hi there!\nI’m the personal bot of Emily, one of Viacom's Content Distribution Coordinators.\n![Emily](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAI9AAAAJGRmNjRlY2EzLWFlMDAtNGFlZi05YjExLWVkMTdhZjZkYmEyYQ.jpg)\nWant to know more about bots or learn about Emily? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Emily](postback:learn_about_emily) %[One random fact!](postback:random_fact)",
+    "WHATS UP": "Hey, I'm so glad you set EmBot up! Do you want to find Emily on Instagram? %[Follow Her](postback:instagram)",
     "TELL HER": "Let's tweet @ Emily so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Emily](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
